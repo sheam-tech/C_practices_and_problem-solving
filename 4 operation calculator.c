@@ -37,3 +37,5 @@ int main()
     getch();
 
 }
+// problem e test case er jonno while(t--){......} evabe solve kora valo
+//character niye kaj koarar somoy setir ascii value niye process korar cinta kora valo obvash
