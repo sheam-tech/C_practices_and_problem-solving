@@ -27,7 +27,7 @@ int main()
     case '/':
     {
         printf("%.2f",a/b);//    c=3.0/4;// to get a float value, one of the operand must be in float data type
-        break;                                //printf("The result is %.2f",c);
+        break;                                //printf("The result is %.2f",c); type casting er sohoj buddhi holo 1.0 diye vag or gun kore deya
 
     }
     default:
