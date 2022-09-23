@@ -1,7 +1,7 @@
 #include <stdio.h>//bruteforce method(not efficiant)
 int main()
 {
-    int num1,num2,i,s,x,y,lcm;
+    int num1,num2,i,s=1,x,y,lcm;
     scanf("%d %d",&num1,&num2);
     if(num1>num2)
        {
