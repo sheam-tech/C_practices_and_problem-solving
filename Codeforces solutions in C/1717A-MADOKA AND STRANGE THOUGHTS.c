@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 long int gcd(long int num1,long int num2)
 { long int x,y,s=1;
          if(num1>num2)
