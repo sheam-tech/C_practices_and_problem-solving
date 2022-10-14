@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// structure e pointer diye access korte hole -> ei cinho bebohar kora hoy.
 struct person
 {   char name[50];
     int age;
